@@ -1,0 +1,13 @@
+Customer,Total loan,Interest,Years
+Erkki Esimerkki,10000,7.2,10
+
+
+
+
+
+
+
+
+
+
+.
