@@ -1,3 +1,3 @@
-# MortgagePlan
-Overview
+# Mortgage Plan
+# Overview
 This repo contains a program that calculates the monthly mortgage payment.
