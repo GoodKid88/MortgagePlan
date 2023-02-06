@@ -9,7 +9,7 @@ public class Calculator {
         return (U * (b * pow((1 + b), p))) / (pow((1 + b), p) - 1);
     }
 
-    /*exponentiation method because we can't use Math()*/
+    /*exponentiation method because we can't use Math() */
     public double pow(double value, int powValue) {
         if (powValue == 1) {
             return value;
